@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/test-task-reactjs-lab/static/css/main.abb8225e.chunk.css",
+    "main.js": "/test-task-reactjs-lab/static/js/main.9ff6e117.chunk.js",
+    "main.js.map": "/test-task-reactjs-lab/static/js/main.9ff6e117.chunk.js.map",
+    "runtime-main.js": "/test-task-reactjs-lab/static/js/runtime-main.7bdd0ff4.js",
+    "runtime-main.js.map": "/test-task-reactjs-lab/static/js/runtime-main.7bdd0ff4.js.map",
+    "static/js/2.ba4f848f.chunk.js": "/test-task-reactjs-lab/static/js/2.ba4f848f.chunk.js",
+    "static/js/2.ba4f848f.chunk.js.map": "/test-task-reactjs-lab/static/js/2.ba4f848f.chunk.js.map",
+    "index.html": "/test-task-reactjs-lab/index.html",
+    "static/css/main.abb8225e.chunk.css.map": "/test-task-reactjs-lab/static/css/main.abb8225e.chunk.css.map",
+    "static/js/2.ba4f848f.chunk.js.LICENSE.txt": "/test-task-reactjs-lab/static/js/2.ba4f848f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bdd0ff4.js",
+    "static/js/2.ba4f848f.chunk.js",
+    "static/css/main.abb8225e.chunk.css",
+    "static/js/main.9ff6e117.chunk.js"
+  ]
+}
