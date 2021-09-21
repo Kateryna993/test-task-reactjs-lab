@@ -1,0 +1,36 @@
+.DataTable {
+  width: 920px;
+  margin: 0 auto;
+  margin-top: 70px;
+  border-spacing: 0;
+  text-align: center;
+  border: 1px solid #7e7171;
+  border-radius: 4px;
+}
+.Header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 18px;
+}
+
+.FullWidth {
+  width: 100%;
+  flex: 1;
+  background-color: #d5d2f7;
+}
+
+th {
+  height: 40px;
+  color: rgb(0, 0, 0);
+  padding: 5px;
+}
+th,
+td {
+  border: 0.1px solid #7e7171;
+}
+
+td {
+  padding: 5px;
+  font-size: 17px;
+}

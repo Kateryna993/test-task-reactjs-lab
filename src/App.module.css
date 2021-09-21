@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+}
+
+.filtersElemContainer {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  margin-right: 140px;
+  margin-left: 140px;
+  margin-top: 50px;
+}
+
+.searchContainer {
+  width: 320px;
+  padding: 5px;
+  font-size: 17px;
+  font-weight: 700;
+  border: 1px solid #7e7171;
+  border-radius: 5px;
+}
+
+.searchInput {
+  margin-left: 10px;
+  width: 160px;
+  height: 30px;
+  border: none;
+  outline: transparent;
+  padding: 0;
+  font-size: 17px;
+}
+
+.searchInput:focus,
+.searchInput:hover {
+  border-bottom: 1px solid #7e7171;
+}
+
+.paginationContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.paginationBtn {
+  background: #fff;
+  color: rgb(68, 142, 253);
+  border: 2px solid lightgray;
+  padding: 0;
+  border-radius: 5px;
+  height: 45px;
+  width: 75px;
+  text-align: center;
+  font-size: 16px;
+  margin: 0 2px;
+  cursor: pointer;
+}
+
+.paginationBtn:hover {
+  border: 2px solid rgb(68, 142, 253);
+  background: rgba(150, 165, 212, 0.24);
+}
